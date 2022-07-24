@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(179, 247, 224);
+}
+
+h1{
+    color: rgb(5, 135, 92);
+    font-family: 'Open Sans',sans-serif;
+}
+
+#shape{
+    width: 200px;
+    height:200px;
+    background-color: brown;
+    display:none;
+    position: relative;
+    /* left : 80%; */
+    /* top: 400px; */
+
+}
+
+.txt{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: bold;
+}
